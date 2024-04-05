@@ -1,0 +1,35 @@
+.bg-blue{
+    background-color: #009EDB;
+}
+
+.Cover-card{
+    width: 450px;
+    border-radius: 70px;
+}
+
+.log-title{
+    color: #009EDB;
+    font-weight: bold;
+}
+
+.td-none{
+    text-decoration: none;
+}
+
+.btn-prime{
+    width:100%;
+    border: none;
+    background-color: #009EDB;
+    color: #FFFFFF;
+    padding: 10px !important;
+    border-radius: 15px;
+}
+
+.btn-secondary{
+    width:100%;
+    border: 2px solid #009EDB;
+    background-color: #FFFFFF;
+    color: #009EDB;
+    padding: 10px 0 !important;
+    border-radius: 15px;
+}

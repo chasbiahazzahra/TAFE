@@ -1,0 +1,24 @@
+
+  .btn-nav{
+    background-color: #FFFFFF;
+    margin-right: 20px;
+    padding: 5px 8px !important;
+    border-radius: 8px;
+    max-width: fit-content;
+    box-shadow: 2px 3px 5px #888888;
+  }
+  
+  .btn-nav i{
+    color: #009EDB;
+  }
+  
+  .searchBar{
+    border: none;
+    border-radius: 8px;
+    outline: none;
+  }
+
+  span{
+    text-shadow: 2px 3px 5px #888888;
+    font-weight: bold;
+  }

@@ -1,0 +1,25 @@
+.btn-shp{
+    background-color: #FD551F;
+    border: none;
+    padding: 7px 30px !important;
+    border-radius: 20px;
+    font-weight: bold;
+    color: #FFFFFF;
+}
+
+.btn-tkp{
+    background-color: #FFFFFF;
+    color: #03AA14;
+    border: none;
+    padding: 7px 30px !important;
+    border-radius: 20px;
+    font-weight: bold;
+}
+
+.circle{
+    color: #009EDB;
+    background-color: #FFFFFF;
+    padding: 5px 9px !important;
+    margin: 0 10px;
+    border-radius: 100%;
+}

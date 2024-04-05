@@ -1,0 +1,21 @@
+*{
+  margin: 0;
+  padding: 0 !important;
+  box-sizing: border-box;
+}
+
+.bg-blue{
+  background-color: #009EDB;
+}
+
+.text-blue{
+  color: #009EDB !important;
+}
+
+.btn-primary{
+  background-color: #009EDB;
+  padding: 10px 50px !important;
+  color: #FFFFFF;
+  border: none;
+  border-radius: 25px;
+}

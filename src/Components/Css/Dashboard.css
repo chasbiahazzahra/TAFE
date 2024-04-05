@@ -1,0 +1,40 @@
+.bg-linear{
+    background: linear-gradient(90deg, rgba(0,158,219,1) 0%, rgba(255,255,255,1) 100%);
+}
+
+.desc-dashboard{
+    width: 500px;
+}
+
+.section-2{
+
+}
+
+.wallet{
+    border: 1px solid #aeaeae;
+    width: 600px;
+    border-radius: 15px;
+    position: relative;
+    margin-top: -50px;
+    position: absolute;
+}
+
+.wallet-title{
+    font-size: 20px;
+}
+
+.btn-wallet{
+    color: #009EDB;
+}
+
+.btn-wallet i{
+    font-size: 40px;
+}
+
+.dot{
+    background-color: #aeaeae;
+    width: 10px;
+    height: 10px;
+    border-radius: 100%;
+    margin: 2px;
+}
