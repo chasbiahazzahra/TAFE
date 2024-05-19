@@ -10,6 +10,12 @@
 
 }
 
+body {
+    margin: 0;
+    background-color: hsl(0, 0%, 96%);
+    height: 100vh;
+  }
+
 .wallet{
     border: 1px solid #aeaeae;
     width: 600px;
@@ -28,7 +34,7 @@
 }
 
 .btn-wallet i{
-    font-size: 40px;
+    font-size: px;
 }
 
 .dot{
@@ -38,3 +44,17 @@
     border-radius: 100%;
     margin: 2px;
 }
+
+.product button {
+    padding: 10px 20px;
+    background-color: #00659E; /* Ubah warna latar belakang tombol */
+    color: #fff;
+    border: none;
+    border-radius: 25px;
+    cursor: pointer;
+  }
+  
+  .product button:hover {
+    background-color: #00568c; /* Ubah warna latar belakang tombol saat dihover */
+  }
+  

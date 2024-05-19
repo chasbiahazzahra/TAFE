@@ -5,8 +5,6 @@ import '../Css/Login.css'
 import Logo from '../Assets/Logo.png';
 
 const Login = () => {
-  const handleLogin = () => {
-  };
 
   return (
     <div className=" container-fluid bg-blue d-flex justify-content-center align-items-center vh-100">
